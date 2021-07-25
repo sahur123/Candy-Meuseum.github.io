@@ -1,0 +1,26 @@
+body{
+    background-color: #f5d9df;
+    font-family: quicksand;
+}
+
+#mainNav .navbar-brand{
+    color: #e63946;
+    font-size: 1.5rem;
+}
+
+#mainNav .nav-link{
+    font-size: 1.5rem;
+    color: #6a040f;
+    font-weight: 700;
+}
+#mainNav .nav-link:hover{
+    color: #cc364a;
+}
+
+.lead{
+    color: #6a040f;
+}
+
+.navbar.scrolled{
+    background-color: #987ce4;
+}
